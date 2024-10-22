@@ -1,0 +1,14 @@
+[package]
+name = "escpos-db"
+description = "Rust bindings to the ESC/POS printer database"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.60"
+
+[workspace]
+members = [".", "codegen"]
+
+[dependencies]
+bitflags = "2.6.0"
+phf = "0.11.2"
