@@ -2,8 +2,8 @@
 name = "escpos-db"
 description = "Rust bindings to the ESC/POS printer database"
 repository = "https://github.com/coolreader18/escpos-db-rs"
-license = "MIT"
-version = "0.1.1"
+license = "MIT AND CC-BY-4.0"
+version = "0.1.2"
 edition = "2021"
 rust-version = "1.60"
 
